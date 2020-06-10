@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2484d89a-9bda-4d6b-a460-4b1aa08b7b71" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="outputLevel" value="DEBUG" />
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aU5ilENRsx5oAOKjapRTcaokjK" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/scala-2.11.8/lib" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.46091953" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="i=10" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ValidatingTables">
+    <configuration name="Eval" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="training.Eval" />
+      <module name="BigTechScalaTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMain" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="playground.MyMain" />
+      <module name="BigTechScalaTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operation (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="playground.Operation" />
+      <module name="BigTechScalaTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operation" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="training.Operation" />
+      <module name="BigTechScalaTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatingTables" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="sparkUseCase.ValidatingTables" />
+      <module name="BigTechScalaTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sparkUseCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyMain" />
+      <item itemvalue="Application.Operation" />
+      <item itemvalue="Application.Eval" />
+      <item itemvalue="Application.Operation (1)" />
+      <item itemvalue="Application.ValidatingTables" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ValidatingTables" />
+        <item itemvalue="Application.Operation" />
+        <item itemvalue="Application.Operation (1)" />
+        <item itemvalue="Application.Eval" />
+        <item itemvalue="Application.MyMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2484d89a-9bda-4d6b-a460-4b1aa08b7b71" name="Default Changelist" comment="" />
+      <created>1586777460836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586777460836</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="82" key="#ControlStruc" timestamp="1587038242283">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="82" key="#ControlStruc/0.0.1536.824@0.0.1536.824" timestamp="1587038242283" />
+    <state x="485" y="82" key="#MyCounter_(1)" timestamp="1588070980663">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="82" key="#MyCounter_(1)/0.0.1536.824@0.0.1536.824" timestamp="1588070980663" />
+    <state x="499" y="166" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1588071393621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="166" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1588071393621" />
+    <state x="223" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588071026288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588071026288" />
+    <state x="499" y="188" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1586852370100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="188" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1586852370100" />
+    <state x="503" y="100" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1586777956411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="503" y="100" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1586777956411" />
+    <state x="419" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586852383153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="419" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1586852383153" />
+    <state x="566" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1586852371799">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1586852371799" />
+    <state x="577" y="166" key="FileChooserDialogImpl" timestamp="1586777871303">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="577" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586777871303" />
+    <state width="1492" height="198" key="GridCell.Tab.0.bottom" timestamp="1591204173474">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="203" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1588510316476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="203" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1588510316476" />
+    <state width="1492" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591204173474" />
+    <state width="1492" height="198" key="GridCell.Tab.0.center" timestamp="1591204173474">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="203" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1588510316476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="203" key="GridCell.Tab.0.center.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1588510316476" />
+    <state width="1492" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591204173474" />
+    <state width="1492" height="198" key="GridCell.Tab.0.left" timestamp="1591204173474">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="203" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1588510316476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="203" key="GridCell.Tab.0.left.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1588510316476" />
+    <state width="1492" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591204173474" />
+    <state width="1492" height="198" key="GridCell.Tab.0.right" timestamp="1591204173474">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="203" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1588510316476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="203" key="GridCell.Tab.0.right.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1588510316476" />
+    <state width="1492" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591204173474" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1588499709498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588499709498" />
+    <state x="465" y="235" key="com.intellij.ide.util.TipDialog" timestamp="1591787426696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="235" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591787426696" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1586864038150">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586864038150" />
+  </component>
+</project>
